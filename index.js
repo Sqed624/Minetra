@@ -20,7 +20,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Minetra 💗 2acd.","Minetranın Resmi Botu 💞"];
+const statusMessages = ["Çayhane 💗 2acd.","Çayhanenin Resmi Botu 💞"];
 
 
 let currentIndex = 0;
